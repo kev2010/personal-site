@@ -1,42 +1,33 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Tribe',
+    subtitle: 'Connect users to nearby events',
+    link: 'http://www.tribe-app.com',
+    image: '/images/projects/tribe.png',
+    date: '2019-08-01',
+    desc: 'Co-founder of an iOS app that connects users to nearby events. Received funding from MIT Sandbox and Baker Foundation at MIT. Accepted into the MIT Sandbox and MIT Venture Mentoring Service programs.'
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'PoomsAI',
+    subtitle: 'Poomsae Autograder',
+    link: 'https://github.com/p1ck-4-u53rn4m3/poomsae-grader',
+    image: '/images/projects/poomsai.png',
+    date: '2019-11-01',
+    desc: 'Developed a prototype Taekwondo Poomsae auto-grader using computer vision. Achieved performance on par or better than human judging for mediocre-to-good performances.',
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    title: 'CardBox',
+    subtitle: 'A sandbox card-playing game',
+    link: 'https://cardboxapp.herokuapp.com/',
+    image: '/images/projects/cardbox.png',
+    date: '2019-12-20',
+    desc: 'Built for a the purpose of advancing coding education. CardBox allows you to play any cardgame you want online. Furthermore, design and create your own rules in our custom programming language to make your own games.',
   }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'Mazescape',
+    subtitle: 'Game created in Python to teach robotics',
+    link: 'https://github.com/The-Ripp3r/Mazescape',
+    image: '/images/projects/mazescape.png',
+    date: '2020-04-15',
+    desc: 'A Pygame based game designed to introduce key concepts of robotics to younger audiences (e.g. high school freshman)',
   },
 ];
 
