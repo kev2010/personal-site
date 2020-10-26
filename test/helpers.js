@@ -6,27 +6,27 @@ const randomString = (length) => {
 
 const pages = [
   {
-    route: '/',
+    route: '/personal-site/',
     title: 'Kevin Jiang',
     heading: 'ABOUT THIS SITE',
   },
   {
-    route: '/about',
+    route: '/personal-site/about',
     title: 'About | Kevin Jiang',
     heading: 'ABOUT ME',
   },
   {
-    route: '/projects',
+    route: '/personal-site/projects',
     title: 'Projects | Kevin Jiang',
     heading: 'PROJECTS',
   },
   {
-    route: '/stats',
+    route: '/personal-site/stats',
     title: 'Stats | Kevin Jiang',
     heading: 'STATS',
   },
   {
-    route: '/contact',
+    route: '/personal-site/contact',
     title: 'Contact | Kevin Jiang',
     heading: 'CONTACT',
   },

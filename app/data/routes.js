@@ -1,27 +1,27 @@
 const data = [
   {
-    path: '/',
+    path: '/personal-site/',
     label: 'Kevin Jiang',
     index: true,
   },
   {
-    path: '/about',
+    path: '/personal-site/about',
     label: 'About',
   },
   {
-    path: '/resume',
+    path: '/personal-site/resume',
     label: 'Resume',
   },
   {
-    path: '/projects',
+    path: '/personal-site/projects',
     label: 'Projects',
   },
   {
-    path: '/stats',
+    path: '/personal-site/stats',
     label: 'Stats',
   },
   {
-    path: '/contact',
+    path: '/personal-site/contact',
     label: 'Contact',
   },
 ];
